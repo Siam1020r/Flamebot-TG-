@@ -71,9 +71,9 @@ module.exports = {
             message += '╭────────────◊\n';
             message += `│ » Total commands: ${totalCommands}\n`;
             message += '│ » A Powerful Telegram bot\n';
-            message += '│ » By Eijah & JARiF\n';
+            message += '│ » FLAME BOT\n';
             message += '╰────────◊\n';
-            message += '「 Annie Bot 」';
+            message += '「 FLAME Bot 」';
 
             bot.sendMessage(chatId, message);
         } else {
@@ -84,7 +84,7 @@ module.exports = {
                     const { name, version, author, countDown, role, category } = config;
                     const message = `Command: ${name}\n` +
                         `❏ Version: ${version}\n` +
-                        `❏ Author: ${author}\n` +
+                        `❏ Admin: ${uid}\n` +
                         `❏ Can use: ${role}\n` +
                         `❏ Category: ${category || 'Uncategorized'}\n`;
 
