@@ -2,7 +2,7 @@
     "tg": [
         "6434193246:AAHCuNb4bFj5XA9q22hMwLYUEXK_hoyoylw"
     ],
-    "prefix": "-",
+    "prefix": "/",
     "webhookURL": "your_webhookURL", 
     "supportGroupText": "Welcome to the bot! Type `help to see all available commands.\nJoin the support box to know how to use or how to create these types of bots: https://t.me/+YNKDd9_jIeYxNDQ1",
     "prefixText": "🌐 System prefix: ".",
