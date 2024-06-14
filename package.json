@@ -1,13 +1,13 @@
 {
-  "name": "annie-v1",
+  "name": "FLAME-BOT",
   "version": "1.1",
-  "description": "A Powerful telegram bot by JARiF",
+  "description": "A Powerful telegram bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "JARiF (Eijah Noah left the chat.)",
+  "author": "JARiF ()",
   "license": "MIT",
   "dependencies": {
     "@neoxr/ytdl-core": "^4.11.5",
