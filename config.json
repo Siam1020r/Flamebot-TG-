@@ -2,7 +2,7 @@
     "tg": [
         "6434193246:AAHCuNb4bFj5XA9q22hMwLYUEXK_hoyoylw"
     ],
-    "prefix": "/",
+    "prefix": ".",
     "webhookURL": "your_webhookURL", 
     "supportGroupText": "Welcome to the bot! Type `help to see all available commands",
     "prefixText": ".",
@@ -11,6 +11,6 @@
      "6969777705"
     ],
     "PORT": 3000,
-    "note": "bot name is important but add a single name. add supportGroupText,add the webhookURL for spying : )"
+    "note": "bot  : )"
 }
 
